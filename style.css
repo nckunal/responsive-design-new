@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+#forBorder{
+	border-style: solid;
+    border-width: 0 0 0 10px;
+}
+#nav-border{
+	border-style: solid;
+    border-width: 0 0 thick 0;
+}
+#footerBorder{
+	border-style: solid;
+    border-width:medium;
+}
+#footer2Border{
+	border-style: solid;
+    border-width:medium;
+}
+
+
